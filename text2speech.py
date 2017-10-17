@@ -8,7 +8,9 @@ print "Text to speech !\n"
 i=0
 
 # audio file extension goes here:
-headers = {'accept': 'audio/mp3'}
+headers = 	{
+			'accept': 'audio/mp3'
+		}
 
 while True:
 
